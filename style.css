@@ -1,0 +1,55 @@
+.background {
+  background-color: cyan;
+}
+.Title {
+  position: absolute;
+  right: 50%;
+  border-style: solid;
+}
+.Canada {
+  position: absolute;
+  top: 15%;
+  right: 50%;
+  font-size: xx-large;
+  border-style: solid;
+  border-color: #d50000;
+}
+.Canadian {
+  position: absolute;
+  top: 25%;
+  text-align: center;
+  word-wrap: normal;
+  border-style: solid;
+  border-color: #d50000;
+}
+.America {
+  position: absolute;
+  top: 40%;
+  right: 52%;
+  font-size: xx-large;
+  border-style: solid;
+  border-color: #2962ff;
+}
+.American {
+  position: absolute;
+  top: 50%;
+  word-wrap: normal;
+  border-style: solid;
+  border-color: #2962ff;
+}
+.Mexico {
+  position: absolute;
+  top: 65%;
+  right: 50%;
+  font-size: xx-large;
+  border-style: solid;
+  border-color: #00c853;
+}
+.Mexican {
+  position: absolute;
+  top: 75%;
+  right: 20%;
+  word-break: normal;
+  border-style: solid;
+  border-color: #00c853;
+}
